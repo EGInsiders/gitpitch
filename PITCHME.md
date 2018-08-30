@@ -4,12 +4,16 @@ An application architecture for React
 
 ---
 
-### Flux Design
+### EduGuide Insiders
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+#### Responding to your Coach's Comments
 
 ---
 
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+### Agenda
+
+* Getting started on the path
+* Responding to your teacher
+* Configuring your settings
+
+---
