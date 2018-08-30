@@ -1,4 +1,6 @@
-# Flux 
+# EduGuide Insider
+
+## Episode 1
 
 An application architecture for React
 
