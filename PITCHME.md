@@ -1,6 +1,6 @@
 # Setting up your EduGuide Team
 
-Notes:
+Note:
 
 Hi My name is Jon Morgan, Web Services Manager for EduGuide.
 (and) I am Nicole Chickering, Results Coach.
